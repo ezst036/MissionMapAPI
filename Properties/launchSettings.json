@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "myapi": {
+    "missionmap": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,

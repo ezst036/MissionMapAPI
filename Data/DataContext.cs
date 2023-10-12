@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 
-namespace myapi.Data
+namespace missionmap.Data
 {
     public class DataContext : DbContext
     {

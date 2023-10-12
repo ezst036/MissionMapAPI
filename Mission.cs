@@ -1,4 +1,4 @@
-namespace myapi;
+namespace missionmap;
 
 public class Mission
 {

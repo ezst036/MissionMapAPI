@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using myapi.Data;
+using missionmap.Data;
 
-namespace myapi.Controllers
+namespace missionmap.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
